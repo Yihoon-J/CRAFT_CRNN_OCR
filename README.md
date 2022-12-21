@@ -15,7 +15,7 @@ All codes are based on Tensorflow v2.0
 9. [MS Cats and Dogs: Pre-trained VGGNet Finetuning](https://colab.research.google.com/drive/1jKq_9DC5Gbnar51RtHyzcNo_vUKQm7rQ?usp=sharing)
 10. [Tensorflow beginner style code implementation](https://colab.research.google.com/drive/1oEG1wVk757utpc1YUddt9Us7WKbucQcQ?usp=sharing)
 11. [Gradient Clipping](https://colab.research.google.com/drive/1IsdmFH1QF5W-TYwiNaouQkF5MXN5EeMT?usp=sharing)
-12. [Keras Callback] (https://colab.research.google.com/drive/1JvTr2r7TlvZI7i_LuZvWzJpihu_jS6P0?usp=sharing)
+12. [Keras Callback](https://colab.research.google.com/drive/1JvTr2r7TlvZI7i_LuZvWzJpihu_jS6P0?usp=sharing)
 13. [IMDB Review: Text classification with RNN](https://colab.research.google.com/drive/1eGKmGXL36hhNAbvAvPGuAJUjVqRrTR5N?usp=sharing)
 14. [**License Plate: CRAFT Detection**](https://colab.research.google.com/drive/1zwRym9JRHkqhdlZRjL-EPy0H2zjOnImJ?usp=sharing)
 
