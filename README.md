@@ -18,4 +18,5 @@ All codes are based on Tensorflow v2.0
 12. [Keras Callback] (https://colab.research.google.com/drive/1JvTr2r7TlvZI7i_LuZvWzJpihu_jS6P0?usp=sharing)
 13. [IMDB Review: Text classification with RNN](https://colab.research.google.com/drive/1eGKmGXL36hhNAbvAvPGuAJUjVqRrTR5N?usp=sharing)
 14. [**License Plate: CRAFT Detection**](https://colab.research.google.com/drive/1zwRym9JRHkqhdlZRjL-EPy0H2zjOnImJ?usp=sharing)
-15. 
+
+...Updating!
