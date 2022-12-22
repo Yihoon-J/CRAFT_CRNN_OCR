@@ -17,6 +17,9 @@ All codes are based on Tensorflow v2.0
 11. [Gradient Clipping](https://colab.research.google.com/drive/1IsdmFH1QF5W-TYwiNaouQkF5MXN5EeMT?usp=sharing)
 12. [Keras Callback](https://colab.research.google.com/drive/1JvTr2r7TlvZI7i_LuZvWzJpihu_jS6P0?usp=sharing)
 13. [IMDB Review: Text classification with RNN](https://colab.research.google.com/drive/1eGKmGXL36hhNAbvAvPGuAJUjVqRrTR5N?usp=sharing)
-14. [**License Plate: CRAFT Detection**](https://colab.research.google.com/drive/1zwRym9JRHkqhdlZRjL-EPy0H2zjOnImJ?usp=sharing)
-
+14. [**License Plate: CRAFT Detection model**](https://colab.research.google.com/drive/1zwRym9JRHkqhdlZRjL-EPy0H2zjOnImJ?usp=sharing)
+15. [License Plate: EAST Detection model](https://colab.research.google.com/drive/1MOWdbaUeZHMSiTkEIiL5Mj7qh-SZrK9q?usp=sharing)
+16. [**License Plate: CRNN Recognition model**](https://colab.research.google.com/drive/1Azggh74D24kIrzXA0v0Rhmw0R1WQlutk?usp=sharing)
+17. [**License Plate: CRAFT+CRNN OCR model**](https://colab.research.google.com/drive/1-TjnrwGSLN7nQxzQTCGu2fc27NazuL6R?usp=sharing)
+18. [Build TF Record File]
 ...Updating!
